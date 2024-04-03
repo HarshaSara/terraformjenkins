@@ -1,6 +1,6 @@
 # Create a Azure Resource Group
 resource "azurerm_resource_group" "RG" {
-  name     = "Test-RGss"
+  name     = "Test-RG"
   location = "East US"
 }
 
